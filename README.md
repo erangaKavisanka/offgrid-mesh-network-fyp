@@ -1,7 +1,7 @@
 # HybridRFComm
 
 <p align="center">
-  <img src="docs/Architecture/highlevel.png" width="100%">
+  <img src="docs/architecture/highlevel.png" width="100%">
 </p>
 
 <p align="center">
